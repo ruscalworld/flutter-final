@@ -54,6 +54,3 @@ class PlaceRow extends StatelessWidget {
     );
   }
 }
-
-// TODO: add PlacesScreenContent with local 'places' field
-// TODO: then load places on state init
